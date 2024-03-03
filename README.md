@@ -18,6 +18,7 @@ Please note that the app is currently in beta and may contain unfinished feature
 ## Feedback
 
 Your feedback is invaluable to us. To report bugs, suggest improvements, or share your thoughts and experiences, please reach out to us via email at hello@rashori.com. Your insights are crucial in shaping the future of Rashori, ensuring that we meet and exceed the expectations of our community.
+![facebook-header-rashori](https://github.com/brandinstitute/RashoriAPP/assets/24900300/277190e6-6278-44a0-9c58-8b5f23aede5c)
 
 ## License
 
