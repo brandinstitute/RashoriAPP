@@ -7,6 +7,7 @@ Welcome to Rashori, where your ideas have the power to shape the future. As a dy
 ## Latest Release
 
 Embark on your Rashori journey today by downloading the latest version of our app. Visit our [Releases page](https://github.com/brandinstitute/RashoriAPP/releases) to find the most recent APK file. With just a few clicks, you'll be ready to explore a world where innovation meets investment.
+![release-app-github](https://github.com/brandinstitute/RashoriAPP/assets/24900300/f2617bf0-8a55-45e6-863f-9d8e0cf9aaab)
 
 ## Special Offer: Premium Account
 
@@ -47,6 +48,15 @@ Connect with us and stay updated on the latest from Rashori:
 - **Website:** [www.rashori.com](http://www.rashori.com)
 - **Releases:** [https://github.com/brandinstitute/RashoriAPP/releases](https://github.com/brandinstitute/RashoriAPP/releases)
 - **Email:** hello@rashori.com
-- **Social Media:** LinkedIn, Facebook, Instagram, Google Maps, TikTok, YouTube, Mastodon (links provided earlier)
+- **Social Media:**
+  - [LinkedIn](https://www.linkedin.com/company/rashori)
+  - [Facebook](https://www.facebook.com/rashoricom)
+  - [Instagram](https://www.instagram.com/rashoricom)
+  - Google: (soon, pending request)
+  - [TikTok](http://www.tiktok.com/@rashoricom)
+  - [YouTube](https://www.youtube.com/@Rashori)
+  - [Email](mailto:hello@rashori.com)
+  - [Mastodon](https://mastodon.social/@rashori)
+
 
 Dive into Rashori today – where your journey from a Regular User to a Professional User not only elevates your experience but also the potential of your ideas. Download now and start shaping the future.
