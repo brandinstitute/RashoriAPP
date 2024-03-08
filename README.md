@@ -6,7 +6,7 @@ Welcome to Rashori, where your ideas have the power to shape the future. As a dy
 
 ## Latest Release
 
-Embark on your Rashori journey today by downloading the latest version of our app. Visit our [Releases page](https://github.com/brandinstitute/RashoriAPP/releases) to find the most recent APK file. With just a few clicks, you'll be ready to explore a world where innovation meets investment.
+Embark on your Rashori journey today by downloading the latest version of our app, now more secure and user-friendly than ever. Version 0.1.5 introduces a verification code for enhanced security, a streamlined invitation system for connecting with friends, and significant brand improvements. Visit our [Releases page](https://github.com/brandinstitute/RashoriAPP/releases) to find the most recent APK file and experience the upgraded Rashori platform.
 ![release-app-github](https://github.com/brandinstitute/RashoriAPP/assets/24900300/f2617bf0-8a55-45e6-863f-9d8e0cf9aaab)
 
 ## Special Offer: Premium Account
@@ -27,9 +27,10 @@ Join the Rashori beta testing community:
 1. Download the latest APK file from our [Releases page](https://github.com/brandinstitute/RashoriAPP/releases).
 2. Allow installation from unknown sources in your device's Security settings.
 3. Install the APK and launch the Rashori app.
-4. Enter your invitation code to access the platform and start exploring.
+4. A new security feature asks for a verification code; for now, simply type any 6 digits.
+5. During registration, use the invitation code 'TEST' to explore how you can invite friends and earn rewards.
 
-Remember, the app is in beta, so your feedback is invaluable. Help us refine and perfect Rashori to meet your needs.
+Your feedback is invaluable in refining Rashori to meet your needs, especially as we enhance our security features and user experience.
 
 ## Feedback
 
