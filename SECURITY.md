@@ -2,31 +2,31 @@
 
 ## Supported Versions
 
-This section is about which versions of Rashori APP project are currently being supported with security updates.
+This section details which versions of the Rashori APP project are currently being supported with security updates. We have introduced new security features, including a verification code system, in our latest updates. It is highly recommended to use the latest version for enhanced security.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.x   | :white_check_mark: |
-| < 1.0   | :x:                |
+| 0.1.5   | :white_check_mark: |
+| < 0.1.5 | :x:                |
 
 ## Reporting a Vulnerability
 
-The security of our application is paramount. We take all security bugs seriously. Thank you for improving the security of Rashori. We appreciate your efforts to disclose your findings responsibly.
+The security of the Rashori application is our top priority. We take all reports of security bugs seriously and appreciate your assistance in notifying us of vulnerabilities in a responsible manner.
 
-If you have discovered a security vulnerability, please report it to us by following these steps:
+If you have discovered a security vulnerability, please follow these steps for reporting:
 
-1. **Do Not Publicly Disclose**: Publicly disclosing a vulnerability can put the entire community at risk. If you have found a potential security issue, please send us an email instead.
+1. **Do Not Publicly Disclose**: To avoid putting the community at risk, please refrain from publicly disclosing a vulnerability. Contact us directly instead.
    
-2. **Email Your Findings**: Send an email to [hello@rashori.com](mailto:hello@rashori.com) with the subject "Security Vulnerability Report". Please provide a detailed report including the steps to reproduce the vulnerability, the potential impact, and any other information that might be relevant.
+2. **Email Your Findings**: Direct your detailed report, including steps to reproduce the vulnerability and its potential impact, to [hello@rashori.com](mailto:hello@rashori.com) with the subject "Security Vulnerability Report".
 
-3. **Response Time**: Our goal is to respond to your report within 48 hours. We'll work with you to understand the issue and verify the vulnerability.
+3. **Response Time**: We aim to acknowledge your report within 48 hours. Our team will collaborate with you to understand and verify the scope of the issue.
 
-4. **Resolution & Disclosure**: After the initial reply to your report, we'll keep you informed about the progress towards a fix and full announcement. We ask for your discretion during the resolution process.
+4. **Resolution & Disclosure**: We'll maintain open communication with you about our progress on addressing the vulnerability and planning for a public disclosure. We respect the need for confidentiality during this process.
 
-5. **Acknowledgment**: After the vulnerability has been fixed, we'll acknowledge your contribution in our public release notes, if you consent.
+5. **Acknowledgment**: Contributors who help identify and resolve security vulnerabilities will be recognized in our public release notes, with your permission, after the fix has been implemented.
 
-We strive to keep Rashori safe for everyone and we thank you for your contributions towards this goal.
+Our commitment to security extends to ensuring Rashori remains a secure and reliable platform for our users. We are grateful for your support and contributions to this mission.
 
 ## Contact Information
 
-For permissions, questions, or further information, please contact us at [hello@rashori.com](mailto:hello@rashori.com).
+Should you have any security concerns or require further information, please don't hesitate to contact us at [hello@rashori.com](mailto:hello@rashori.com).
