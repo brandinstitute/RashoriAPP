@@ -6,6 +6,25 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [0.1.5] - 2024-03-07
+### Changed
+- App name for the APK file changed to "Rashori".
+- App logo icon changed to a stylized "R", representing Rashori's first letter.
+
+### Added
+- A new security update that requires a verification code upon app access. Users can type any 6 digits for this version.
+- Introduction of invitation codes in registration. Users should type 'TEST' as the invitation code for this version. This feature will enable users to invite friends and earn points, with future updates allowing percentage earnings from invited friends' investments or idea creations.
+- Special popup implemented to provide information on how to invest and find investors within the app.
+
+### Fixed
+- Updated profile information functionality (address, birth) now requires users to save changes before exiting the profile screen.
+- Profile image update/upload issue fixed; users need to save changes before leaving the profile screen.
+- Open screen feature for viewing all published businesses and ideas.
+- Ideas information parts during the creation process have been fixed and improved.
+
+### Brand Improvements
+- Added Rashori logo to the main screen and the registration screen for enhanced brand presence.
+
 ## [0.1.4] - 2024-02-28
 ### Added
 - Upgrade registration process to enhance user experience.
