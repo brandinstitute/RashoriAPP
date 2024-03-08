@@ -4,6 +4,11 @@ All notable changes to the Rashori project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## Latest Release
+
+Embark on your Rashori journey today by downloading the latest version of our app. Visit our [Releases page](https://github.com/brandinstitute/RashoriAPP/releases) to find the most recent APK file. With just a few clicks, you'll be ready to explore a world where innovation meets investment.
+![release-app-github](https://github.com/brandinstitute/RashoriAPP/assets/24900300/f2617bf0-8a55-45e6-863f-9d8e0cf9aaab)
+
 ## [Unreleased]
 
 ## [0.1.5] - 2024-03-07
