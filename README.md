@@ -22,13 +22,15 @@ For a limited time, users who create a profile by the end of 2024 will be automa
 
 ## Testing Instructions
 
-Join the Rashori beta testing community:
+Join the Rashori beta testing community and explore the innovative features of our platform:
 
 1. Download the latest APK file from our [Releases page](https://github.com/brandinstitute/RashoriAPP/releases).
-2. Allow installation from unknown sources in your device's Security settings.
-3. Install the APK and launch the Rashori app.
-4. A new security feature asks for a verification code; for now, simply type any 6 digits.
-5. During registration, use the invitation code 'TEST' to explore how you can invite friends and earn rewards.
+2. Allow installation from unknown sources in your device's Security settings to enable APK installation.
+3. Install the APK and launch the Rashori app on your device.
+4. Upon launching, the app will ask for a verification code; for now, simply enter any 6 digits to proceed.
+5. For registration, you will need an invitation code provided by an already registered user. This code is essential to create a new account and participate in the Rashori community.
+
+By following these steps, you can access and test the latest developments in the Rashori app, contributing to our mission of connecting innovation and investment through a dynamic community-driven platform.
 
 Your feedback is invaluable in refining Rashori to meet your needs, especially as we enhance our security features and user experience.
 
