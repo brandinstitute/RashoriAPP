@@ -11,7 +11,7 @@ Embark on your Rashori journey today by downloading the latest version of our ap
 
 ## [Unreleased]
 
-## [1.2.1] - 2024-04-15
+## [0.2.1] - 2024-04-15
 ### Added
 - **Invitation Code for Inviters**: Existing users can now invite new users by providing an invitation code, enhancing community growth and rewarding inviter engagement.
 - **Earn Points**: Users can earn points for each new user they invite to the Rashori platform, which can be redeemed for various benefits.
