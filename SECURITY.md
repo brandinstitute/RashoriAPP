@@ -6,7 +6,7 @@ This section details which versions of the Rashori APP project are currently bei
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 0.1.5   | :white_check_mark: |
+| 0.2.1   | :white_check_mark: |
 | < 0.1.5 | :x:                |
 
 ## Reporting a Vulnerability
