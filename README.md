@@ -22,15 +22,18 @@ For a limited time, users who create a profile by the end of 2024 will be automa
 
 ## Testing Instructions
 
-Join the Rashori beta testing community and explore the innovative features of our platform:
+Join the Rashori beta testing community and be part of an innovative platform that bridges the gap between ideas and investments:
 
-1. Download the latest APK file from our [Releases page](https://github.com/brandinstitute/RashoriAPP/releases).
-2. Allow installation from unknown sources in your device's Security settings to enable APK installation.
-3. Install the APK and launch the Rashori app on your device.
-4. Upon launching, the app will ask for a verification code; for now, simply enter any 6 digits to proceed.
-5. For registration, you will need an invitation code provided by an already registered user. This code is essential to create a new account and participate in the Rashori community.
+1. **Download the APK**: Obtain the latest APK file from our [Releases page](https://github.com/brandinstitute/RashoriAPP/releases).
+2. **Enable Installation**: Allow installation from unknown sources in your device's Security settings. This is necessary to install the APK.
+3. **Install and Launch**: Install the APK on your device and open the Rashori app.
+4. **Enter Invitation Code**: During the initial setup, enter the invitation code provided by an existing Rashori user. This is required to proceed with creating your new account.
+5. **Register Your Details**: Fill in your registration details including your full name, email, and a secure password.
+6. **Verify Your Email**: After submitting your registration details, the app will send a verification code to your email to ensure its credibility. Check your email for this code.
+7. **Complete Verification**: Enter the unique verification code received via email in the app to verify your account.
+8. **Join the Community**: Once your account is verified, you are ready to explore and contribute to the Rashori community.
 
-By following these steps, you can access and test the latest developments in the Rashori app, contributing to our mission of connecting innovation and investment through a dynamic community-driven platform.
+By following these steps, you will not only gain access to the latest features of Rashori but also contribute to a growing platform that fosters innovation and investment opportunities. We look forward to your participation and feedback!
 
 Your feedback is invaluable in refining Rashori to meet your needs, especially as we enhance our security features and user experience.
 
