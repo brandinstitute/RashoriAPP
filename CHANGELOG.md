@@ -11,6 +11,20 @@ Embark on your Rashori journey today by downloading the latest version of our ap
 
 ## [Unreleased]
 
+## [1.2.1] - 2024-04-15
+### Added
+- **Invitation Code for Inviters**: Existing users can now invite new users by providing an invitation code, enhancing community growth and rewarding inviter engagement.
+- **Earn Points**: Users can earn points for each new user they invite to the Rashori platform, which can be redeemed for various benefits.
+
+### Updated
+- **Registration Process**: Registration now requires an invitation code from an existing user and a verification code from an email to ensure new user email integrity.
+- **Password Reset**: Improved the password reset process for enhanced security and better user experience.
+- **Business Creation**: Updated the functionality to include document updates, setup of shares, or the percentage of business offered for sale with the idea.
+- **Idea Image Gallery**: Enhanced the image gallery for ideas, allowing users to create a more engaging and visually appealing presentation.
+
+### Offers
+- **Pro Account for Free**: All new users can upgrade to a Pro account for free until the end of 2024, providing enhanced insights and additional tools for business growth.
+
 ## [0.1.5] - 2024-03-07
 ### Changed
 - App name for the APK file changed to "Rashori".
