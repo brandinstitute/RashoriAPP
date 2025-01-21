@@ -1,5 +1,5 @@
 # Rashori
-![facebook-header-rashori](https://github.com/brandinstitute/RashoriAPP/assets/24900300/e85140c5-7e8d-46ab-9912-e01c1fdd40a0)
+![facebook-header-rashori](https://www.rashori.com/storage/app/public/images/g5NFAardTCFxB9zOCuqdl0madtIupgaotYBsPC3U.png)
 ## Description
 
 Welcome to Rashori, where your ideas have the power to shape the future. As a dynamic platform designed for the fusion of innovation and investment, Rashori connects visionary ideamakers with strategic investors to transform groundbreaking ideas into successful ventures. With Rashori, you're not just participating in a community; you're driving the change. Dive deeper into our ecosystem at [www.rashori.com](http://www.rashori.com) and see how we're revolutionizing the way ideas come to life.
